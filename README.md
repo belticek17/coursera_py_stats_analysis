@@ -7,5 +7,3 @@ This repository contains basic Jupyter notebooks for manipulation with financial
 | Quiz 2 | Passed | Jun 14<br/>11:59 PM PDT | 25%    | 100%  |
 | Quiz 3 | Passed | Jun 19<br/>11:59 PM PDT | 25%    | 90%   |
 | Quiz 4 | Passed | Jun 16<br/>11:59 PM PDT | 25%    | 80%   |
-
-[Download PDF](C:\Users\remenjur\PycharmProjects\coursera_py_stats_analysis\data\Coursera Certificate.pdf)
